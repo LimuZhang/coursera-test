@@ -1,0 +1,32 @@
+body {
+	background:-webkit-linear-gradient(left top,#BE93C5,#7BC6CC);
+    background: -o-linear-gradient(left top,#BE93C5,#7BC6CC);
+    background: -moz-linear-gradient(left top,#BE93C5,#7BC6CC);
+    background: linear-gradient(left top,#BE93C5,#7BC6CC);
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+	background-color: #BEABD4;
+	border: 0;
+}
+.navbar-toggle {
+	margin-top: 35px;
+}
+#brand {
+	margin-bottom: 30px;
+}
+li {
+	text-align: center;
+	color: black;
+	background-color: white;
+	border: 1px solid black;
+}
+#menu {
+	font-size:30px;
+}
+.col-xs-12 {
+	background-color: lightgrey;
+	color: black;
+}
